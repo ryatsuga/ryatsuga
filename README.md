@@ -1,6 +1,6 @@
 ### Sobre mim 👋
 
-#Leandro Passos
+# Leandro Passos
 
 Estudante de Sistemas de Informação na Una Betim, cursando atualmente o 8º período.
 
