@@ -2,6 +2,6 @@
 
 #### Leandro Passos
 
-Estudante de Sistemas de Informação na Una Betim, cursando atualmente o 8º período.
+Graduado em Sistemas de Informação na Una Betim.
 
 Adoro programação web, principalmente com Django e React.
